@@ -1,0 +1,13 @@
+.success{
+  font-family: 'Times New Roman', Times, serif;
+  border: 10px;
+  margin: auto;
+  color: hsla(124, 50%, 50%, 0.706);
+  background-color: rgb(20, 8, 8);
+}
+.failure{
+  font-family: Arial, Helvetica, sans-serif;
+  border: 10px;
+  margin: 0%;
+  color: hsla(0, 55%, 49%, 0.706);
+}

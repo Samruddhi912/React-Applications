@@ -1,0 +1,19 @@
+.list-category{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: blue;
+  background-color: black;
+  margin: 0%;
+  padding: auto;
+  border: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+.list-items li{
+  font-size: larger;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: blanchedalmond;
+  margin: 0%;
+  padding: 10px;
+  border: 10px;
+  text-align: center;
+}
